@@ -1,0 +1,8 @@
+Proceso Area_De_Un_Rectangulo
+	Escribir "Escribe el lado 1";
+	Leer l1;
+	Escribir "Escribe el lado 2";
+	Leer l2;
+	area<-l1*l2;
+	Escribir "El area es de:",area;
+FinProceso
